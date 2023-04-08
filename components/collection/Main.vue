@@ -28,7 +28,7 @@
                 <div class="flex flex-col overflow-y-scroll bg-white py-6 shadow-xl border">
                   <div class="px-4 sm:px-6">
                     <div class="flex items-start justify-between">
-                      <DialogTitle class="text-base font-semibold leading-6 text-gray-900">Add Application</DialogTitle>
+                      <DialogTitle class="text-base font-semibold leading-6 text-gray-900">Add Assesment</DialogTitle>
                       <div class="ml-3 flex h-7 items-center">
                         <button type="button"
                           class="rounded-md bg-white text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
