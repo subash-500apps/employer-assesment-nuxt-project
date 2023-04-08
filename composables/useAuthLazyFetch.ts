@@ -1,11 +1,5 @@
 /* eslint-disable  @typescript-eslint/no-unused-vars */
 
-
-
-// import { useUserStore } from "~~/stores/User";
-
-
-
 // Custom Auth Fetch Composable
 export const useAuthLazyFetch = (
     request: any,
